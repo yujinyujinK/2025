@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: "LLMs' Potential Influences on Our Democracy: Challenges and Opportunities"
-description: "With the growing research and attention on LLMs' potential influence on political discourse and democratic processes, the blog post discusses the path forward and proposes future research questions in four broad areas: (1) evaluation of LLM political leanings, (2) understanding LLMs’ influences on our democracy, (3) better policy frameworks for AI development, and (4) technical solutions to mitigate political leanings. As LLMs become increasingly integrated into society, continued investigation of how LLMs will reshape democracy is essential to maximize their benefits while minimizing risks to democratic processes."
+description: "With growing research and attention on LLMs' potential influence on political discourse and democratic processes, this blog post discusses the path forward and proposes future research questions in four broad areas: (1) evaluation of LLM political leanings, (2) understanding LLMs' influence on our democracy, (3) better policy frameworks for AI development, and (4) technical solutions to adjust or mitigate political leanings. As LLMs become increasingly integrated into society, continued investigation of how they will reshape democracy is essential to maximize their benefits while minimizing risks to democratic processes."
 date: 2025-04-28
 future: true
 htmlwidgets: true
